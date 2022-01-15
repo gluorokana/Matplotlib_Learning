@@ -8,3 +8,7 @@
 - ![image](https://github.com/gluorokana/Matplotlib_Learning/blob/main/Fig2_T2.png)
 ### 建立对象进行绘制
 - ![image](https://github.com/gluorokana/Matplotlib_Learning/blob/main/Fig3_T2.png)
+## 进行直方图和条形图的绘制
+### 绘制直方图
+- ![image](https://github.com/gluorokana/Matplotlib_Learning/blob/main/Fig4_T2.png)
+
